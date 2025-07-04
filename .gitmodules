@@ -1,12 +1,12 @@
 [submodule "libosmocore"]
 	path = libosmocore
 	url = https://gitea.osmocom.org/osmocom/libosmocore.git
-[submodule "osmo-tetra-dmo"]
-	path = osmo-tetra-dmo
-	url = https://github.com/tejeez/osmo-tetra-dmo.git
-[submodule "suo"]
-	path = suo
-	url = https://github.com/tejeez/suo.git
 [submodule "liquid-dsp"]
 	path = liquid-dsp
 	url = https://github.com/jgaeddert/liquid-dsp.git
+[submodule "osmo-tetra-dmo"]
+	path = osmo-tetra-dmo
+	url = https://github.com/proxiboi69/osmo-tetra-dmo.git
+[submodule "suo"]
+	path = suo
+	url = https://github.com/tejeez/suo.git
